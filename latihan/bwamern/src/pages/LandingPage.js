@@ -1,3 +1,13 @@
 const { ReactComponent } = require("*.svg")
 
-import React, {}
+import React, {Component} from 'react'
+
+export default class LandingPage extends Component{
+    render(){
+        return (
+            <div>
+
+            </div>
+        )
+    }
+}
