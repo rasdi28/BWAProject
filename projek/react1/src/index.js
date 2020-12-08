@@ -1,15 +1,12 @@
 import React from 'react';
 import ReactDOM, { render } from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Helloworld from './container/StateFullCom';
-import Hello from './component/HelloComponen';
-
+import Home from './container/Home/Home';
 
 ReactDOM.render(
   <React.StrictMode>
-    < Hello />
+  < Home/>
   
   </React.StrictMode>,
   document.getElementById('root')
