@@ -26,3 +26,13 @@ a :link, a:visited {
 a:hover , a:active {
     background-color: red;
 }
+
+
+.container{
+    background-color: 32643D; 
+    position: absolute;
+    width: 789px;
+    height: 352px;
+
+}
+
